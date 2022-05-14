@@ -1,0 +1,14 @@
+.logo {
+    width: 3rem;
+    padding: 8px;
+}
+
+.error {
+    background-color: #FF4949;
+    color: gainsboro;
+    padding: .5rem;
+    font-size: 1rem;
+    margin-top: .5rem;
+    border-radius: 5px;
+    text-align: center;
+}
